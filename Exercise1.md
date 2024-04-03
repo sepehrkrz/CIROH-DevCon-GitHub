@@ -1,4 +1,4 @@
-## Exercise 1: Initializing a Git Repository, Making Changes, and Pushing to GitHub (GitHub Website Only)
+## Exercise 1: Initializing a Git Repository, Making Changes, and Pushing to GitHub 
 
 **Objective:**  
 To practice initializing a Git repository, making changes to files, committing those changes, and pushing the repository to GitHub entirely through the GitHub website interface.
